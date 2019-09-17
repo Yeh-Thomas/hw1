@@ -1,7 +1,9 @@
 What do the numbers inside the parentheses after a function name do?
+
 They are arguments, the parameters that tells the function how to execute it.
 
 What’s the difference between fill and stroke?
+
 Fill is the color within a shape, and stroke is the outline of the shape.
 
 The P5 web editor has a built-in console — but it turns out that Chrome also has a console to display errors. 
@@ -11,4 +13,5 @@ Take a screenshot and upload it into your repository.
 
 
 What is the keyboard shortcut to open the JavaScript console in Chrome on your system?
+
 Ctrl + Shift + J
